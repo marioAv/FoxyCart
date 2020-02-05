@@ -90,4 +90,8 @@ form.fc-checkout__main__form{
 padding:5% 17%;
 }
 
+h3.fc-transaction__header {
+    display: none;
+}
+
 </style>
